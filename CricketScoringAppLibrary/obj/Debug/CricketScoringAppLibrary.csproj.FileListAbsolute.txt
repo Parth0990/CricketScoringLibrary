@@ -1,0 +1,9 @@
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\bin\Debug\CricketScoringAppLibrary.dll
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\bin\Debug\CricketScoringAppLibrary.pdb
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\obj\Debug\CricketScoringAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\obj\Debug\CricketScoringAppLibrary.csproj.CopyComplete
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\obj\Debug\CricketScoringAppLibrary.dll
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\obj\Debug\CricketScoringAppLibrary.pdb
+C:\Users\parth\source\repos\CricketScoringAppLibrary\CricketScoringAppLibrary\obj\Debug\CricketScoringAppLibrary.csproj.AssemblyReference.cache
